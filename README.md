@@ -1,1 +1,1 @@
-# Exerc-cios-1-ao-4
+# Exercicios simples com o uso de map() em JavaScript
