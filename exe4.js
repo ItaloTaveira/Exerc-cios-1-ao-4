@@ -1,3 +1,3 @@
-let string = ["Olá", "Bom", "Isso"]
-let process = string.map(pro => pro + " - Processada")
+let string = ["Record", "Globo", "SBT"]
+let process = string.map(pro => pro.concat( " - Processada"))
 console.log(process)
